@@ -1,0 +1,6 @@
+mvn archetype:generate -DgroupId={Project-package}
+	-DartifactId={project-name}
+	-DarchetypeArtifactId=maven-archetype-quickstart
+	-DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=PracticeProject -DartifactId=WebsiteTest -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
